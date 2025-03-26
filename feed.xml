@@ -3,12 +3,25 @@
     <title>ooo.so</title>
     <link href="https://ooo.so/feed.xml" rel="self" />
     <link href="https://ooo.so" />
-    <updated>2025-03-26T01:54:21+01:00</updated>
+    <updated>2025-03-26T04:59:38+01:00</updated>
     <author>
         <name>Tarik</name>
     </author>
     <id>https://ooo.so</id>
 
+    <entry>
+        <title>LMNP</title>
+        <author>
+            <name>Tarik</name>
+        </author>
+        <link href="https://ooo.so/lmnp.html"/>
+        <id>https://ooo.so/lmnp.html</id>
+            <category term="Immobilier"/>
+
+        <updated>2025-03-26T04:59:38+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>First Post</title>
         <author>
