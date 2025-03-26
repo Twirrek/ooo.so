@@ -3,10 +3,34 @@
     <title>ooo.so</title>
     <link href="https://ooo.so/feed.xml" rel="self" />
     <link href="https://ooo.so" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-03-26T01:54:21+01:00</updated>
     <author>
         <name>Tarik</name>
     </author>
     <id>https://ooo.so</id>
 
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Tarik</name>
+        </author>
+        <link href="https://ooo.so/first-post.html"/>
+        <id>https://ooo.so/first-post.html</id>
+        <media:content url="https://ooo.so/media/posts/1/ER23_104_HeaderArt_1600x900n.jpg" medium="image" />
+            <category term="AI"/>
+
+        <updated>2025-03-26T01:54:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ooo.so/media/posts/1/ER23_104_HeaderArt_1600x900n.jpg" alt="" />
+                    First Post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ooo.so/media/posts/1/ER23_104_HeaderArt_1600x900n.jpg" class="type:primaryImage" alt="" /></p>
+                <p>First Post</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

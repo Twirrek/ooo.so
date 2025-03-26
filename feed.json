@@ -9,5 +9,21 @@
         "name": "Tarik"
     },
     "items": [
+        {
+            "id": "https://ooo.so/first-post.html",
+            "url": "https://ooo.so/first-post.html",
+            "title": "First Post",
+            "summary": "First Post",
+            "content_html": "<p>First Post</p>",
+            "image": "https://ooo.so/media/posts/1/ER23_104_HeaderArt_1600x900n.jpg",
+            "author": {
+                "name": "Tarik"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2025-03-26T01:54:21+01:00",
+            "date_modified": "2025-03-26T01:54:21+01:00"
+        }
     ]
 }
