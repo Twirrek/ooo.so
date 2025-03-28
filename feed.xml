@@ -3,12 +3,446 @@
     <title>ooo.so</title>
     <link href="https://ooo.so/feed.xml" rel="self" />
     <link href="https://ooo.so" />
-    <updated>2025-03-26T23:23:57+01:00</updated>
+    <updated>2025-03-28T01:19:29+01:00</updated>
     <author>
         <name>Tarik</name>
     </author>
     <id>https://ooo.so</id>
 
+    <entry>
+        <title>Open source en 2025 : 11 logiciels incontournables à adopter pour se libérer des géants du web</title>
+        <author>
+            <name>Tarik</name>
+        </author>
+        <link href="https://ooo.so/open-source-en-2025-11-logiciels-incontournables-a-adopter-pour-se-liberer-des-geants-du-web.html"/>
+        <id>https://ooo.so/open-source-en-2025-11-logiciels-incontournables-a-adopter-pour-se-liberer-des-geants-du-web.html</id>
+            <category term="open Source"/>
+
+        <updated>2025-03-28T01:13:44+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Dans une ère où toujours plus d’utilisateurs tentent de se détacher des&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section class="ed__p-artc__hdr">
+<div class="ed__a-av-cover"> </div>
+<div class="ed__p-artc__hdr__txt"><header class="ed__cntnr">
+<p class="ed__a-h ed__bdy__l"><strong>Dans une ère où toujours plus d’utilisateurs tentent de se détacher des logiciels proposés par les Gafam, il est toujours possible de compter sur la communauté des développeurs proposant des solutions <em>open source</em>. Voici une sélection d’applications libres permettant de couvrir un large spectre d’usages sur de nombreuses plateformes.</strong></p>
+</header></div>
+</section>
+<aside class="ed__p-artc__sb">
+<div class="ln__sb__first">
+<div class="is--position-sticky--16"> </div>
+</div>
+</aside>
+<section class="ed__p-artc__artcl" data-review-article="" data-article-progress-bar="">
+<div class="ed__p-artc__artcl__bdy ed__bdy">
+<div class="ed__cntnr"> </div>
+<div class="ed__cntnr">
+<h2 id="1-nextcloud-le-stockage-cloud-notamment-sans-les-gafam" class="ed__a-t">1/ Nextcloud : le stockage cloud (notamment) sans les Gafam</h2>
+<p class="ed__a-p ed__bdy__l">Stocker du contenu dans les solutions infonuagiques de Microsoft ou Google s’avère simple. Cependant, entre la quantité de stockage limitée en version gratuite et les problèmes de contrôle sur nos propres données, il peut être intéressant d’aller voir ailleurs pour conserver en sécurité nos fichiers. C’est là qu’interviennent Nextcloud et sa solution d’auto-hébergement pour les usages professionnels ou personnels. Sécurisé et conçu spécialement pour la gestion collaborative du contenu, Nextcloud se veut aussi simple à utiliser. La firme propose même d’autres outils collaboratifs dignes de ceux de Google (agenda, chat, email, traitement de texte…).</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151588"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0ee5b525-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Nextcloud" width="1506" height="865"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Nextcloud</p>
+<p>© Nextcloud</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows, macOS, Linux</li>
+<li><strong>Domaine</strong> Stockage cloud</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/nextcloud-65770">Nextcloud</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://nextcloud.com/fr" target="_blank" rel="nofollow noopener">https://nextcloud.com/fr</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="2-greenshot-la-capture-d-ecran-simple-et-modulaire" class="ed__a-t">2/ Greenshot : la capture d’écran simple et modulaire</h2>
+<p class="ed__a-p ed__bdy__l">Sur ordinateur, ce ne sont assurément pas les solutions de captures d’écran qui manquent. Chacun aura sa préférence pour des besoins spécifiques que toutes ne couvrent pas exactement de la même manière. Pour notre usage sur Windows, à savoir prendre rapidement des captures de fenêtres, de jeux ou encore de zones, nous avons une préférence pour Greenshot. Avec la possibilité de choisir le format de la capture, l’emplacement de la sauvegarde ou encore les raccourcis clavier à utiliser pour chaque action, ce logiciel fait exactement ce dont on a besoin, sans fioritures.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151589"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser_png__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser_png__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser_png__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser_png__w380.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.png" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0bd24a09-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.png"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Greenshot" width="975" height="652"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Greenshot</p>
+<p>© Greenshot</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows</li>
+<li><strong>Domaine</strong> Utilitaire</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/greenshot-19988">Greenshot</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://getgreenshot.org" target="_blank" rel="nofollow noopener">https://getgreenshot.org</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="3-pikatorrent-le-telechargement-simple-et-epure" class="ed__a-t">3/ PikaTorrent : le téléchargement simple et épuré</h2>
+<p class="ed__a-p ed__bdy__l">Comme pour l’application ci-dessus, les solutions pour télécharger des torrents abondent, y compris en open source. Pour changer du très efficace qBittorrent, place à PikaTorrent. Présenté comme un logiciel embrassant la modernité, il se veut aisé à utiliser par tous grâce à son interface claire. Parmi ses fonctionnalités que tous les clients ne proposent pas, on relève notamment le contrôle à distance ou encore un moteur de recherche pour dénicher des torrents directement en son sein.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151590"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/33287d63-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="PikaTorrent" width="1024" height="500"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>PikaTorrent</p>
+<p>© PikaTorrent</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows, macOS, Linux, Android</li>
+<li><strong>Domaine</strong> Téléchargement</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/pikatorrent-65774">PikaTorrent</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://github.com/G-Ray/pikatorrent" target="_blank" rel="nofollow noopener">https://github.com/G-Ray/pikatorrent</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="4-localsend-l-alternative-pour-le-partage-de-fichiers-de-proximite" class="ed__a-t">4/ LocalSend : l’alternative pour le partage de fichiers de proximité</h2>
+<p class="ed__a-p ed__bdy__l">Nous sommes en l'an de grâce 2025 et partager des fichiers entre différents appareils, fonctionnant notamment sous des systèmes d’exploitation différents, est trop souvent un calvaire. C’est pour résoudre ce problème que LocalSend a été créée. Cross-plateforme, cette application libre et gratuite permet d’envoyer aisément des fichiers de manière décentralisée et sécurisée entre des ordinateurs et appareils mobiles à proximité. LocalSend se paye aussi le luxe d’être très simple à utiliser et de ne pas nécessiter de compte. Un must !</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151591"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/b36358d6-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="LocalSend" width="2000" height="1182"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>LocalSend</p>
+<p>© LocalSend</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows, macOS, Linux, Android, iOS</li>
+<li><strong>Domaine</strong> Utilitaire</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/localsend-foss-airdrop-62348">LocalSend</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://localsend.org/fr" target="_blank" rel="nofollow noopener">https://localsend.org/fr</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="5-aegis-authenticator-la-double-authentification-sans-google-microsoft-et-cie" class="ed__a-t">5/ Aegis Authenticator : la double authentification sans Google, Microsoft et Cie</h2>
+<p class="ed__a-p ed__bdy__l">Également surreprésentées, les applications pour gérer les connexions à double authentification sont très souvent assez ressemblantes. Si vous recherchez une solution gratuite et <em>open source</em> sur Android, Aegis Authenticator est l’une des plus populaires. Évidemment chiffrée, l'app propose une interface simple, moderne et personnalisable. Des outils d’import et d’export vers ou depuis d’autres applications 2FA sont également présents pour aider à effectuer la transition.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151592"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/c5a1bd2d-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Aegis Authenticator" width="1024" height="500"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Aegis Authenticator</p>
+<p>© Aegis Authenticator</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Android</li>
+<li><strong>Domaine</strong> Sécurité</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/aegis-authenticator-55236">Aegis Authenticator</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://getaegis.app" target="_blank" rel="nofollow noopener">https://getaegis.app</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="6-newpipe-un-client-youtube-leger-bon-pour-la-sante" class="ed__a-t">6/ NewPipe : un client YouTube léger, bon pour la santé</h2>
+<p class="ed__a-p ed__bdy__l">Difficile aujourd’hui d’éviter YouTube pour consommer des vidéos en ligne. Un monopole d’autant plus gênant que la solution de Google croule aujourd’hui sous les publicités si l’on refuse de passer au Premium. Sur PC, il est possible dans une certaine mesure de les éviter avec des bloqueurs de pub, mais sur mobile, c’est plus compliqué. C’est là qu’intervient NewPipe, un client Android qui se veut léger et compatible avec YouTube, mais aussi PeerTube, SoundCloud ou Bandcamp. De nombreuses fonctionnalités sont de la partie, comme la lecture hors-ligne ou en fond. Reste à espérer que la solution reste fonctionnelle à terme.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151600"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/4cd79f60-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="NewPipe" width="1080" height="1920"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>NewPipe</p>
+<p>© NewPipe</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Android</li>
+<li><strong>Domaine</strong> Vidéo en ligne</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/newpipe-65772">NewPipe</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://newpipe.net" target="_blank" rel="nofollow noopener">https://newpipe.net</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="7-bitwarden-le-gestionnaire-de-mots-de-passe-pour-securiser-votre-vie-privee" class="ed__a-t">7/ Bitwarden : le gestionnaire de mots de passe pour sécuriser votre vie privée</h2>
+<p class="ed__a-p ed__bdy__l">Une nouvelle fois, le choix est massif quand il est question des gestionnaires de mots de passe. Pour cette sélection, nous avons choisi Bitwarden, mais bien d’autres solutions, <em>open source</em> ou non, valent le coup d’œil (chez Proton, par exemple). Gratuit et très peu cher en premium pour un usage personnel ou professionnel, ce logiciel couvre tous les usages habituels et est disponible sur un très grand nombre d’appareils.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151599"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/1f3d10df-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Bitwarden" width="2000" height="1137"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Bitwarden</p>
+<p>© Bitwarden</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows, macOS, Linux, iOS, Android, extensions web</li>
+<li><strong>Domaine</strong> Sécurité</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/bitwarden-33524">Bitwarden</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://bitwarden.com/fr-fr/" target="_blank" rel="nofollow noopener">https://bitwarden.com/fr-fr/</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="8-audile-oubliez-shazam-et-apple" class="ed__a-t">8/ Audile : oubliez Shazam et Apple !</h2>
+<p class="ed__a-p ed__bdy__l">À ne pas confondre avec le service de livres audio Audible, Audile est une alternative à Shazam pour reconnaître les musiques. Basée sur les services AudD et ACRCloud pour identifier les chansons, cette solution pour Android permet de connaître les informations d’une piste (nom, artiste, album, liens vers des services musicaux…) en cas de reconnaissance. Cette dernière peut d’ailleurs avoir lieu même quand Internet vient à manquer grâce à un enregistrement de l’écoute. Si vous ne voulez plus passer par la solution appartenant désormais à Apple, c’est tout ce qu’il vous faut.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151598"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/9553c9d5-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Audile" width="3240" height="2400"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Audile</p>
+<p>© Audile</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Android</li>
+<li><strong>Domaine</strong> Reconnaissance musicale</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/audile-musicrecognizer-65776">Audile</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://f-droid.org/fr/packages/com.mrsep.musicrecognizer/" target="_blank" rel="nofollow noopener">https://f-droid.org/fr/packages/com.mrsep.musicrecognizer/</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="9-signal-la-messagerie-instantanee-autrement" class="ed__a-t">9/ Signal : la messagerie instantanée autrement</h2>
+<p class="ed__a-p ed__bdy__l">Voici une petite exception dans ce dossier sous les traits d'un logiciel un peu plus connu que la moyenne. Les raisons de quitter les applications de messagerie instantanée de Meta (WhatsApp et Messenger) et les autres solutions mainstream (Discord, Telegram…) existent. Si tel est votre cas, ou que vous souhaitez tout simplement utiliser le service le plus sécurisé aujourd’hui, direction Signal. Disponible partout et disposant en grande majorité des mêmes fonctionnalités que ses concurrents, cette solution gratuite et <em>open source</em> met l’accent sur la confidentialité et la protection de la vie privée avec des fonctionnalités et couches de sécurité supplémentaires.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151597"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/fb66fe29-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Signal" width="2224" height="1465"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Signal</p>
+<p>© Signal</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows, macOS, Linux, Android, iOS</li>
+<li><strong>Domaine</strong> Messagerie instantanée</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/signal-26342">Signal</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://signal.org/fr/" target="_blank" rel="nofollow noopener">https://signal.org/fr/</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="10-loop-prenez-de-bonnes-habitudes-avec-cette-application" class="ed__a-t">10/ Loop : prenez de bonnes habitudes avec cette application</h2>
+<p class="ed__a-p ed__bdy__l">Besoin d’un petit coup de pouce pour améliorer votre vie en maintenant de bonnes habitudes ? Loop Habit Tracker (ou plus simplement Loop) pourrait vous aider. Cette app Android à l’interface épurée est là pour vous aider à créer et tenir vos objectifs sur le long terme. Des graphiques et des statistiques sont également disponibles pour savoir comment vos habitudes évoluent au fil du temps. Sans pub et évidemment <em>open source</em>, c’est peut-être l’app qu’il vous faut. Ne lui manque plus que davantage de plateformes et la gestion des mauvaises habitudes.</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151595"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/2be7b93b-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Loop" width="713" height="890"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Loop</p>
+<p>© Loop</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Android</li>
+<li><strong>Domaine</strong> Bien-être</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/loop-suivi-dhabitudes-29920">Loop</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://loophabits.org" target="_blank" rel="nofollow noopener">https://loophabits.org</a></li>
+</ul>
+<p> </p>
+</aside>
+<h2 id="11-em-team-fortress-2-em-un-jeu-video-culte-desormais-ouvert" class="ed__a-t">11/ <em>Team Fortress 2</em> : un jeu vidéo culte désormais ouvert</h2>
+<p class="ed__a-p ed__bdy__l">Terminons avec un peu de divertissement… Grand classique de Valve sorti en 2007, le FPS multijoueur <em>Team Fortress 2</em> aura énormément évolué au fil des ans. En 2025, en plus d’être gratuit sur Steam (nous aurions préféré <em>GOG</em> et son absence de DRM pour coller avec la philosophie de ce dossier, mais tant pis), le jeu est désormais <em>open source</em> pour permettre à la communauté d’en faire absolument tout et n’importe quoi, y compris d’autres jeux basés sur lui. Avec ses graphismes <em>cartoon</em> intemporels, ses nombreux modes de jeu et ses classes et cartes emblématiques, <em>TF2</em> reste aujourd’hui un hit qu’il est toujours agréable de lancer pour une petite partie (oups, il est 3h du matin).</p>
+</div>
+<div class="ed__cntnr is--sw">
+<p class="ed__a-p ed__bdy__l"> </p>
+<figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1151593"><figure class="ed__title-xxs"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.webp"><source media="(max-width: 579px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp" type="image/webp" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.webp"><source media="(min-width: 580px) and (max-width: 967px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w700.jpg"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp" type="image/webp" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.webp"><source media="(min-width: 0px)" data-srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg" data-img-src-default="" srcset="https://cdn.lesnumeriques.com/optim/article/18/180665/0560ce7e-14-logiciels-open-source-a-decouvrir-pour-creer-travailler-optimiser-et-s-amuser__w800.jpg"><img loading="lazy"  draggable="false" src="data:;base64,<svg xmlns='http://www.w3.org/2000/svg'</svg></figure>" alt="Team Fortress 2" width="1920" height="1080"> data-is-external-image="true"></picture>
+<figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l">
+<div class="ed__m-fgr__fgcptn__cntnr">
+<div class="ed__m-fgr__txt__cntnr">
+<p>Team Fortress 2</p>
+<p>© Valve</p>
+</div>
+</div>
+</figcaption>
+</figure>
+<p> </p>
+</div>
+<div class="ed__cntnr">
+<aside class="ed__m-frmd">
+<p class="ed__bdy__l"> </p>
+<ul class="ed__lists ed__bdy__l">
+<li><strong>Plateforme</strong> Windows, Linux</li>
+<li><strong>Domaine</strong> Jeu</li>
+<li><strong>Télécharger</strong> C'est ici : <a href="https://www.lesnumeriques.com/telecharger/steam-20334">Steam</a></li>
+<li><strong>Site internet</strong> C'est ici : <a href="https://store.steampowered.com/app/440/Team_Fortress_2/" target="_blank" rel="nofollow noopener">https://store.steampowered.com/app/440/Team_Fortress_2/</a></li>
+</ul>
+<p> </p>
+</aside>
+</div>
+<div class=""> </div>
+</div>
+</section>
+<div class="ln__o-ftr__m__n"><form action="/check-newsletter-subscription-user" method="post" novalidate="novalidate">
+<div class="ln__m-ipt-txt__inr-btn "> </div>
+</form></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Youtube Sans Pubs Gratuit et Légal</title>
+        <author>
+            <name>Tarik</name>
+        </author>
+        <link href="https://ooo.so/youtube-sans-pubs-gratuit-et-legal.html"/>
+        <id>https://ooo.so/youtube-sans-pubs-gratuit-et-legal.html</id>
+        <media:content url="https://ooo.so/media/posts/8/revanced_1-950x500.jpg" medium="image" />
+
+        <updated>2025-03-27T01:33:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ooo.so/media/posts/8/revanced_1-950x500.jpg" alt="" />
+                    Revanced YouTube : Les Fonctionnalités Premium sans dépenser un centime Revanced YouTube&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ooo.so/media/posts/8/revanced_1-950x500.jpg" class="type:primaryImage" alt="" /></p>
+                <header>
+<div class="meta">
+<h1 class="title no-thumb large bold">Revanced YouTube : Les Fonctionnalités Premium sans dépenser un centime</h1>
+</div>
+<div class="clear"> </div>
+</header>
+<section class="post-content">
+<div class="epcl-share-container hide-on-mobile is-affixed">
+<div class="inner-wrapper-sticky">
+<div class="epcl-share"><a class="facebook " rel="nofollow noopener" href="https://www.facebook.com/sharer/sharer.php?u=https://www.geeksleague.be/?p=17216" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><i class="fa fa-facebook"></i></a> <a class="twitter " rel="nofollow noopener" href="http://twitter.com/share?text=Revanced+YouTube+%3A+Les+Fonctionnalit%C3%A9s+Premium+sans+d%C3%A9penser+un+centime&amp;url=https://www.geeksleague.be/?p=17216" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i class="fa fa-twitter"></i></a></div>
+</div>
+</div>
+<div class="text">
+<p>Revanced YouTube est une alternative à l’application YouTube standard, offrant une expérience sans publicité, la possibilité de jouer des vidéos en arrière-plan, entre autres fonctionnalités, sans avoir à payer pour un abonnement premium. Dans ce tutoriel, je vous guiderai à travers le processus d’installation de Revanced YouTube sur votre appareil Android (uniquement). Suivez ces étapes simples pour profiter de YouTube sans les interruptions habituelles de publicités.</p>
+<h2 class="wp-block-heading"><strong>Guide d’installation de Revanced YouTube</strong></h2>
+<p>Avant de commencer, voici quelques points à noter :</p>
+<ul class="wp-block-list">
+<li>Toutes les étapes doivent être effectuées directement depuis votre smartphone.</li>
+<li>Si vous avez une version précédente de Vanced installée, il est essentiel de la désinstaller au préalable.</li>
+<li>Évitez de télécharger des versions préfabriquées de YouTube ReVanced à partir de sources non officielles pour éviter les risques de logiciels malveillants.</li>
+<li>Le site Web officiel pour ReVanced est <a href="https://revanced.app">https://revanced.app</a></li>
+<li>Ceci n’est pas le guide officiel (mais vous pouvez le trouver ici : <a href="https://github.com/revanced/revanced-manager/tree/main/docs">https://github.com/revanced/revanced-manager/tree/main/docs</a>)</li>
+</ul>
+<h3 class="wp-block-heading"><strong>Téléchargez ReVanced Manager et YouTube APK</strong></h3>
+<ul class="wp-block-list">
+<li>Commencez par télécharger et installer la dernière version de ReVanced Manager APK depuis : <a href="https://github.com/revanced/revanced-manager/releases/latest">https://github.com/revanced/revanced-manager/releases/latest</a></li>
+<li>Ensuite, procurez-vous la dernière version recommandée de YouTube APK (version 19.04.37) depuis : <a href="https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-04-37-release/youtube-19-04-37-android-apk-download/">https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-04-37-release/youtube-19-04-37-android-apk-download/</a>)</li>
+</ul>
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><figure class="wp-image-17219 loaded"><img loading="lazy"  src="https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-615x264.jpg" sizes="(max-width: 615px) 100vw, 615px" srcset="https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-615x264.jpg 615w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-300x129.jpg 300w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-768x329.jpg 768w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-1536x658.jpg 1536w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-100x43.jpg 100w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-700x300.jpg 700w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2-1600x686.jpg 1600w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_2.jpg 1680w" alt="" width="615" height="264" data-lazy="true" data-is-external-image="true"></figure></figure>
+</div>
+<h3 class="wp-block-heading"><strong>Construction et Installation de YouTube ReVanced APK</strong></h3>
+<ul class="wp-block-list">
+<li>Lancez le gestionnaire et accédez à « Patcher », puis appuyez sur « Sélectionner une application » et choisissez « Stockage ».</li>
+<li>Accordez l’accès au stockage à ReVanced Manager si vous y êtes invité.</li>
+<li>Sélectionnez le fichier APK YouTube précédemment téléchargé.</li>
+<li>Appuyez sur « Patcher » et attendez que YouTube ReVanced se construise.</li>
+<li>Une fois terminé, appuyez sur « Installer ».</li>
+<li>Vous pouvez recevoir un avertissement indiquant que l’installation de l’application a été bloquée par Play Protect. C’est normal, car l’application ne provient pas du Play Store et peut être ignorée en appuyant sur Plus de détails puis Installer quand même.</li>
+<li>Si l’installation échoue, enregistrez le fichier APK dans votre dossier de téléchargements, localisez-le à l’aide d’une application de navigation de fichiers, puis installez-le manuellement.</li>
+<li>Ouvrez YouTube ReVanced ; vous recevrez une invitation indiquant que MicroG n’est pas installé. Suivez la redirection pour l’installer, car cela est nécessaire pour vous connecter à votre compte YouTube.</li>
+<li>Ouvrez à nouveau YouTube ReVanced et vous devriez maintenant pouvoir suivre l’assistant pour vous connecter.</li>
+<li>Terminé !</li>
+</ul>
+<h3 class="wp-block-heading"><strong>Mises à jour de YouTube ReVanced</strong></h3>
+<ul class="wp-block-list">
+<li>Revenez régulièrement dans ReVanced Manager pour vérifier les mises à jour, environ une fois par semaine.</li>
+<li>Sur le tableau de bord, vous pouvez voir quand le gestionnaire et les correctifs ont été mis à jour.</li>
+<li>Lancez le processus de mise à jour en suivant les mêmes étapes décrites précédemment.</li>
+<li>Notez que la version de YouTube peut changer, alors assurez-vous d’utiliser la dernière APK demandée par l’application</li>
+</ul>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><figure class="wp-image-17220 loaded"><img loading="lazy"  src="https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-615x264.jpg" sizes="(max-width: 615px) 100vw, 615px" srcset="https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-615x264.jpg 615w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-300x129.jpg 300w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-768x329.jpg 768w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-1536x658.jpg 1536w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-100x43.jpg 100w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-700x300.jpg 700w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3-1600x686.jpg 1600w, https://www.geeksleague.be/wp-content/uploads/2024/03/revanced_3.jpg 1680w" alt="" width="615" height="264" data-lazy="true" data-is-external-image="true"></figure></figure>
+</div>
+<p>J’espère que ce guide vous a été utile pour installer Revanced YouTube sur votre appareil Android. Rappelez-vous, cette méthode ne provient pas d’une source officielle, donc veuillez l’utiliser avec prudence. En tant que traduction d’un message Reddit, nous ne pouvons être tenus responsables de tout problème ou conséquence résultant de son utilisation.</p>
+<p>Profitez pleinement de votre expérience YouTube sans publicités avec Revanced !</p>
+</div>
+<div class="clear"> </div>
+<div class="share-buttons section">
+<div class="permalink"> </div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mais comment diable internet sur mobile de Starlink peut il fonctionner</title>
         <author>
