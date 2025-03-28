@@ -3,7 +3,7 @@
     <title>ooo.so</title>
     <link href="https://ooo.so/feed.xml" rel="self" />
     <link href="https://ooo.so" />
-    <updated>2025-03-28T01:19:29+01:00</updated>
+    <updated>2025-03-28T01:25:03+01:00</updated>
     <author>
         <name>Tarik</name>
     </author>
@@ -367,6 +367,10 @@
         <link href="https://ooo.so/youtube-sans-pubs-gratuit-et-legal.html"/>
         <id>https://ooo.so/youtube-sans-pubs-gratuit-et-legal.html</id>
         <media:content url="https://ooo.so/media/posts/8/revanced_1-950x500.jpg" medium="image" />
+            <category term="tutoriel"/>
+            <category term="open Source"/>
+            <category term="Youtube"/>
+            <category term="Bloqueur de Pubs"/>
 
         <updated>2025-03-27T01:33:21+01:00</updated>
             <summary>
